@@ -1,0 +1,2 @@
+Equalizing[[:space:]]from[[:space:]]Macbook[[:space:]]Air.mdat filter=lfs diff=lfs merge=lfs -text
+Equalizing[[:space:]]from[[:space:]]Macbook[[:space:]]Air[[:space:]]vs[[:space:]]EQ[[:space:]]from[[:space:]]LG[[:space:]]v20.mdat filter=lfs diff=lfs merge=lfs -text
